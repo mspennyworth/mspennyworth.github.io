@@ -1,0 +1,192 @@
+.nav {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.padding {
+	BORDER-RIGHT: #999966 0px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999966 0px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999966 2px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #999966 0px solid
+}
+.navsection {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #990000; LINE-HEIGHT: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.navsection2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000; LINE-HEIGHT: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.homedate {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; LINE-HEIGHT: 100%; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topnav {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.smalltext {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-HEIGHT: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.smalllink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.pubdate {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #666666; LINE-HEIGHT: 13px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.spacer {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #666666; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Geneva, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bodycopy {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.side_kicker {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 11px; FONT-FAMILY: Verdana, Geneva, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.side_headline {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #990000; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Geneva, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.side_bodycopy {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Geneva, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.headline {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #990000; LINE-HEIGHT: 21px; FONT-FAMILY: Arial, Helvetica, Geneva, san-serif; TEXT-DECORATION: none
+}
+.headline1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; COLOR: #990000; LINE-HEIGHT: 25px; FONT-FAMILY: Arial, Helvetica, Geneva, san-serif; TEXT-DECORATION: none
+}
+.smheadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.kicker {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: 12px; FONT-FAMILY: Verdana, Geneva, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.nav:link {
+	COLOR: #000000
+}
+A.nav:active {
+	COLOR: #660000
+}
+A.nav:hover {
+	COLOR: #990000
+}
+A.nav:visited {
+	COLOR: #000000
+}
+A.nav:hover {
+	COLOR: #990000
+}
+A.topnav:link {
+	COLOR: #ffffff
+}
+A.topnav:active {
+	COLOR: #ffffff
+}
+A.topnav:hover {
+	COLOR: #eeeeee
+}
+A.topnav:visited {
+	COLOR: #ffffff
+}
+A.topnav:hover {
+	COLOR: #ffffff
+}
+A.navsection:link {
+	COLOR: #990000
+}
+A.navsection:active {
+	COLOR: #990000
+}
+A.navsection:hover {
+	COLOR: #660000
+}
+A.navsection:visited {
+	COLOR: #990000
+}
+A.navsection:hover {
+	COLOR: #990000
+}
+A.navsection2:link {
+	COLOR: #990000
+}
+A.navsection2:active {
+	COLOR: #990000
+}
+A.navsection2:hover {
+	COLOR: #660000
+}
+A.navsection2:visited {
+	COLOR: #990000
+}
+A.navsection2:hover {
+	COLOR: #990000
+}
+A.smheadline:link {
+	COLOR: #990000
+}
+A.smheadline:hover {
+	COLOR: #660000
+}
+A.smheadline:hover {
+	TEXT-DECORATION: underline
+}
+A.smheadline:visited {
+	COLOR: #990000
+}
+A.smheadline:hover {
+	COLOR: #660000
+}
+A.headline:hover {
+	TEXT-DECORATION: underline
+}
+A.headline:visited {
+	COLOR: #990000
+}
+A.headline:hover {
+	COLOR: #990000
+}
+A.headline1:hover {
+	TEXT-DECORATION: underline
+}
+A.headline1:visited {
+	COLOR: #990000
+}
+A.headline1:hover {
+	COLOR: #990000
+}
+A.date:link {
+	COLOR: #000000
+}
+A.date:hover {
+	COLOR: #999999
+}
+A.date:visited {
+	COLOR: #ffffff
+}
+A.date:hover {
+	COLOR: #999999
+}
+A.smalllink:link {
+	COLOR: #990000
+}
+A.smalllink:hover {
+	COLOR: #660000
+}
+A.smalllink:hover {
+	TEXT-DECORATION: underline
+}
+A.smalllink:visited {
+	COLOR: #990000
+}
+A.smalllink:hover {
+	COLOR: #660000
+}
+A.adheadline:hover {
+	COLOR: #333333
+}
+A.photocap:link {
+	COLOR: #000000
+}
+A.photocap:hover {
+	COLOR: #999999
+}
+A.photocap:visited {
+	COLOR: #666666
+}
+A.photocap:hover {
+	COLOR: #999999
+}
+A:visited {
+	COLOR: #666666
+}
